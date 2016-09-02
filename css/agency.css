@@ -751,3 +751,9 @@ body {
 }
 
 #intro-text {padding-top: 200px;}
+h2 {background-color: #fed136;
+    display: inline-block;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 10px;
+    padding: 12px;}
